@@ -1,4 +1,5 @@
 [![Jun Guo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jun Guo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gjuoun)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Hi there ✨, my name is Jun(John) Guo
 
