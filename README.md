@@ -1,9 +1,13 @@
 #### Hi there ✨, I'm Jun(John) Guo
 
+<a href="https://www.linkedin.com/in/gjuoun">
+  <img align="right" alt="Shinichi Okada | Twitter" width="64px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+</a>
+
 - 🔭 I’m currently working on frontend, backend with a little of devops. (Typescript/Javascript)
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Typescript, Node/Deno & Space
-- 📫 How to reach me: [Linkedin.com/in/gjuoun](Linkedin.com/in/gjuoun)
+- 📫 How to reach me: [Linkedin.com/in/gjuoun](Linkedin.com/in/gjuoun) or Email: gjuoun@gmail.com
 - 😄 Pronouns: `June Kwok`
 - 🎵 I play guitar and drums
 
@@ -22,18 +26,18 @@
 **Tier 1**
 
 <code><img height="64" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 **Tier 2**
 
-<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-**Tier 3**
-
 <code><img height="64" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+
+
 
 [![Jun Guo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
