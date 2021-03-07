@@ -2,13 +2,12 @@
 
 - 🔭 I’m currently working on frontend, backend with a little of devops. (Typescript/Javascript)
 - 🌱 I’m currently learning Rust
-- 💬 Ask me about Typescript & Node/Deno
+- 💬 Ask me about Typescript, Node/Deno & Space
 - 📫 How to reach me: [Linkedin.com/in/gjuoun](Linkedin.com/in/gjuoun)
 - 😄 Pronouns: `June Kwok`
 - 🎵 I play guitar and drums
 - 
 [![Jun Guo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Jun Guo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gjuoun)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Repos of my open-source projects :
 
