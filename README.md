@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on projects with React/Node.js
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Typescript, Node/Deno & Space
-- 📫 How to reach me: [Linkedin.com/in/gjuoun](Linkedin.com/in/gjuoun) or email: gjuoun@gmail.com 
+- 📫 How to reach me: [Linkedin.com/in/gjuoun](https://www.linkedin.com/in/gjuoun) or email: gjuoun@gmail.com 
 - 😄 Pronunciation of my name: `June Kwok` 
 - 🎵 I play guitar and drums  
 - 🖥 I build high-performance computers. 
