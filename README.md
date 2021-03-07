@@ -11,7 +11,7 @@
 - 🎵 I play guitar and drums  
 - 🖥 I build high-performance computers. 
 
-#### My familiarity Rank of Programming languages and tools: <img align="right" width="32px" src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Systems-Mac-Os-icon.png"/><img height="32" align="right" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png"><img height="32" align="right" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
+#### My familiarity rank: <img align="right" width="32px" src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Systems-Mac-Os-icon.png"/><img height="32" align="right" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png"><img height="32" align="right" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
 
 **Tier 0**
 
