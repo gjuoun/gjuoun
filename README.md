@@ -7,13 +7,9 @@
 - 🔭 I’m currently working on frontend, backend with a little of devops. (Typescript/Javascript)
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Typescript, Node/Deno & Space <img height="32" align="right" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png"><img height="32" align="right" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"> 
-- 📫 How to reach me: [Linkedin.com/in/gjuoun](Linkedin.com/in/gjuoun) or Email: gjuoun@gmail.com
+- 📫 How to reach me: [Linkedin.com/in/gjuoun](Linkedin.com/in/gjuoun) or Email: gjuoun@gmail.com <a href="https://www.linkedin.com/in/gjuoun"><img align="right" alt="Jun Guo | Linkedin" width="420px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true"/></a>
 - 😄 Pronouns: `June Kwok`
 - 🎵 I play guitar and drums
-
-<a href="https://www.linkedin.com/in/gjuoun">
- <img align="right" alt="Jun Guo | Linkedin" width="520px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true"/>
-</a>
 
 #### Languages and Tools:
 
