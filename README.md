@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Rust (Typescript/Javascript)
 - 💬 Ask me about Typescript, Node/Deno & Space 
 - 📫 How to reach me: [Linkedin.com/in/gjuoun](Linkedin.com/in/gjuoun) or Email: gjuoun@gmail.com 
-- 😄 Pronouns: `June Kwok` <img height="32" align="right" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png"><img height="32" align="right" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
-- 🎵 I play guitar and drums
+- 😄 Pronouns: `June Kwok` 
+- 🎵 I play guitar and drums <img height="32" align="right" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png"><img height="32" align="right" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
 
 <a href="https://www.linkedin.com/in/gjuoun"><img align="right" alt="Jun Guo | Linkedin" width="64px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
 
