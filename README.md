@@ -8,7 +8,7 @@
 - 🎵 I play guitar and drums
 
 #### My Github stats: 
-[![Jun Guo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true?theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Jun Guo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Open-source projects:
