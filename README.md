@@ -1,8 +1,10 @@
 #### Hi there ✨, I'm Jun(John) Guo
 
 <a href="https://www.linkedin.com/in/gjuoun">
-  <img align="right" alt="Shinichi Okada | Twitter" width="64px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+  <img align="right" alt="Jun Guo | Linkedin" width="64px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
+
+
 
 - 🔭 I’m currently working on frontend, backend with a little of devops. (Typescript/Javascript)
 - 🌱 I’m currently learning Rust
@@ -10,8 +12,14 @@
 - 📫 How to reach me: [Linkedin.com/in/gjuoun](Linkedin.com/in/gjuoun) or Email: gjuoun@gmail.com
 - 😄 Pronouns: `June Kwok`
 - 🎵 I play guitar and drums
+- 
+
 
 ### Languages and Tools:
+
+<a href="https://www.linkedin.com/in/gjuoun">
+ <img align="right" alt="Jun Guo | Linkedin" width="520px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true"/>
+</a>
 
 **Tier 0**
 
@@ -36,10 +44,6 @@
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-
-
-
-[![Jun Guo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Repos of my open-source projects :
 
