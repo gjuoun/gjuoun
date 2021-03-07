@@ -1,12 +1,9 @@
 
 
-#### Hi there ✨, I'm Jun(John) Guo <a href="https://www.linkedin.com/in/gjuoun"><img align="right" alt="Jun Guo | Linkedin" width="420px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true"/></a>
+#### Hi there ✨, I'm Jun(John) Guo <a href="https://www.linkedin.com/in/gjuoun"><img align="right" alt="Jun Guo | Linkedin" width="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a><img height="32" align="right" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png">
+<img height="32" align="right" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"><a href="https://www.linkedin.com/in/gjuoun"><img align="right" alt="Jun Guo | Linkedin" width="420px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true"/></a>
 
-<a href="https://www.linkedin.com/in/gjuoun"><img align="right" alt="Jun Guo | Linkedin" width="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
 
-<img height="32" align="right" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png">
-
-<img height="32" align="right" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
 
 - 🌍 I'm living in Halifax, Nova Scotia, Canada. 🇨🇳 -> 🇨🇦 
 - 🔭 I’m currently working on projects with React/Node.js
