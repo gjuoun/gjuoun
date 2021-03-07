@@ -4,13 +4,14 @@
 
 #### Hi there ✨, I'm Jun(John) Guo
 
+Current setup: <img height="32" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png"><img height="32" src="https://icon-library.com/images/icon-plus-sign/icon-plus-sign-8.jpg"><img height="32" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"> 
+
 - 🔭 I’m currently working on frontend, backend with a little of devops. (Typescript/Javascript)
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Typescript, Node/Deno & Space
 - 📫 How to reach me: [Linkedin.com/in/gjuoun](Linkedin.com/in/gjuoun) or Email: gjuoun@gmail.com
 - 😄 Pronouns: `June Kwok`
 - 🎵 I play guitar and drums
-- 💻 Preferred setup: <img height="32" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png"><img height="32" src="https://icon-library.com/images/icon-plus-sign/icon-plus-sign-8.jpg"><img height="32" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"> 
 
 <a href="https://www.linkedin.com/in/gjuoun">
  <img align="right" alt="Jun Guo | Linkedin" width="520px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true"/>
