@@ -1,10 +1,8 @@
-#### Hi there ✨, I'm Jun(John) Guo
-
 <a href="https://www.linkedin.com/in/gjuoun">
   <img align="right" alt="Jun Guo | Linkedin" width="64px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
 
-
+#### Hi there ✨, I'm Jun(John) Guo
 
 - 🔭 I’m currently working on frontend, backend with a little of devops. (Typescript/Javascript)
 - 🌱 I’m currently learning Rust
@@ -14,12 +12,11 @@
 - 🎵 I play guitar and drums
 - 
 
-
-### Languages and Tools:
-
 <a href="https://www.linkedin.com/in/gjuoun">
  <img align="right" alt="Jun Guo | Linkedin" width="520px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true"/>
 </a>
+
+### Languages and Tools:
 
 **Tier 0**
 
