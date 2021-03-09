@@ -2,7 +2,7 @@
 
 #### Hi there ✨, I'm Jun(John) Guo <a href="https://www.linkedin.com/in/gjuoun"><img align="right" alt="Jun Guo | Linkedin" width="420px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true&show_icons=true"/></a>
 
-- 🌍 I'm living in Halifax, Nova Scotia, Canada. 🇨🇳 -> 🇨🇦 
+- 🌍 I'm living in Halifax, Nova Scotia, Canada. 
 - 🔭 I’m currently working on projects with React/Node.js
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about Typescript, Node/Deno & Space
