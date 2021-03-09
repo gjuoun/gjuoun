@@ -5,7 +5,7 @@
 - 🌍 I'm living in Halifax, Nova Scotia, Canada. 
 - 🔭 I’m currently working on projects with React/Node.js
 - 🌱 I’m currently learning Rust
-- 💬 Ask me about Typescript, Node/Deno & Space
+- 💬 Ask me about Typescript, Node/Deno 
 - 📫 How to reach me: [Linkedin.com/in/gjuoun](https://www.linkedin.com/in/gjuoun) or email: gjuoun@gmail.com 
 - 😄 Pronunciation of my name: `June Kwok` 
 - 🎵 I play guitar and drums  
