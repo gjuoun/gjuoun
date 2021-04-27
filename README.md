@@ -44,6 +44,6 @@
 
 #### Most recent works:
 
-[![Frontend exercise](https://github-readme-stats.vercel.app/api/pin/?username=deligenius&repo=view-engine)](https://github.com/gjuoun/frontend-exercise)
+[![Frontend exercise](https://github-readme-stats.vercel.app/api/pin/?username=gjuoun&repo=frontend-exercise)](https://github.com/gjuoun/frontend-exercise)
 
 A React web app about Team Overview (was submitted as a code assignment)
