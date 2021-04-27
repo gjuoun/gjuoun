@@ -42,9 +42,7 @@
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 
-#### Repos of my open-source projects :
+#### Most recent works:
 
-[![View-engine](https://github-readme-stats.vercel.app/api/pin/?username=deligenius&repo=view-engine)](https://github.com/deligenius/view-engine)
-[![Multiparser](https://github-readme-stats.vercel.app/api/pin/?username=deligenius&repo=multiparser)](https://github.com/deligenius/multiparser)
-[![Deligenius](https://github-readme-stats.vercel.app/api/pin/?username=deligenius&repo=deligenius)](https://github.com/deligenius/deligenius)
-[![Deligenius](https://github-readme-stats.vercel.app/api/pin/?username=deligenius&repo=bodyparser)](https://github.com/deligenius/bodyparser)
+[![Frontend exercisej ](https://github-readme-stats.vercel.app/api/pin/?username=deligenius&repo=view-engine)](https://github.com/gjuoun/frontend-exercise)
+A React web app about Team Overview (was submitted as a code assignment)
