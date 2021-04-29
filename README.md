@@ -44,4 +44,4 @@
 
 #### Most recent works:
 
-[![Frontend exercise](https://github-readme-stats.vercel.app/api/pin/?username=gjuoun&repo=frontend-exercise)](https://github.com/gjuoun/frontend-exercise)
+[![Frontend exercise](https://github-readme-stats.vercel.app/api/pin/?username=gjuoun&repo=teamOverview-exercise)](https://github.com/gjuoun/teamOverview-exercise)
