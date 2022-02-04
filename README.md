@@ -1,6 +1,6 @@
 
 
-#### Hi there ✨, I'm Jun(John) Guo <a href="https://www.linkedin.com/in/gjuoun"><img align="right" alt="Jun Guo | Linkedin" width="420px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&show_icons=true&count_private=true"/></a>
+#### Hi there ✨, I'm Jun Guo <a href="https://www.linkedin.com/in/gjuoun"><img align="right" alt="Jun Guo | Linkedin" width="420px" src="https://github-readme-stats.vercel.app/api?username=gjuoun&show_icons=true&count_private=true"/></a>
 
 - 🌍 I'm living in Halifax, Nova Scotia, Canada. 
 - 🔭 I’m currently working on projects with React/Node.js
