@@ -31,6 +31,8 @@
 <code><img height="64" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+code><img height="64" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4"></code>
+code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
 **Tier 2**
 
