@@ -10,7 +10,7 @@
 
 #### My familiarity rank: <img align="right" width="32px" src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Systems-Mac-Os-icon.png"/><img height="32" align="right" src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png"><img height="32" align="right" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
 
-**Tier 0**
+**Comprehensive**
 
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -24,7 +24,7 @@
 <code><img height="64" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-**Tier 1**
+**Doable**
 
 <code><img height="64" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/rust.png"></code>
@@ -32,7 +32,7 @@
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="64" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4"></code>
 
-**Tier 2**
+**Rusty**
 
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
