@@ -8,7 +8,7 @@
 - 😄 Pronunciation of my name: `June Kwok` 
 - 🖥 I build high-performance computers. 
 
-###My familiarity rank
+### My familiarity rank
 
 **Comprehensive**
 
