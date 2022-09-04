@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on projects with React/Node.js
 - 📫 How to reach me: [Linkedin.com/in/gjuoun](https://www.linkedin.com/in/gjuoun) or email: gjuoun@gmail.com 
 - 😄 Pronunciation of my name: `June Kwok` 
-- 🖥 I build high-performance computers. 
-
 
 
 ### My familiarity rank
