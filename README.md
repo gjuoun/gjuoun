@@ -1,8 +1,25 @@
 
 
-#### Hi, 
 > Talk is cheap, show me the code.
 
-[![gjuoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjuoun&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![gjuoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gjuoun&show_icons=true&&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjuoun&layout=compact&hide=HTML,Javascript,CSS,JAVA,Scala,EJS)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,rust,python)](https://skillicons.dev)
+
+---
+#### Runtimes
+[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,workers,wasm)](https://skillicons.dev)
+
+---
+#### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,nestjs,express,graphql)](https://skillicons.dev)
+
+---
+#### Clouds
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure,cloudflare)](https://skillicons.dev)
+
+---
+#### DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)](https://skillicons.dev)
