@@ -10,7 +10,7 @@
 
 
 #### Runtimes
-[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,workers,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,workers)](https://skillicons.dev)
 
 
 #### Frameworks
