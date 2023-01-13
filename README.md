@@ -1,6 +1,6 @@
 
 
-> Talk is cheap, show me the code.
+> Learning by doing
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gjuoun&show_icons=true&&count_private=true" alt="hello-dark" height="" width="420" />
   
