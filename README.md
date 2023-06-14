@@ -2,8 +2,6 @@
 
 > Learning by doing
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gjuoun&show_icons=true&&count_private=true" alt="hello-dark" height="" width="420" />
-  
 
 #### Languages
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,rust,python)](https://skillicons.dev)
