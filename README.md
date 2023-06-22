@@ -1,6 +1,5 @@
 
 
-Welcome to my github page.
 
 Hi, my name is Jun Guo.
 
