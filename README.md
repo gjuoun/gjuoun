@@ -1,23 +1,12 @@
 
 
-> Learning by doing
+Welcome to my github page.
+
+Hi, my name is Jun Guo.
+
+I write something matters to gamers at Mistplay.
 
 
-#### Languages
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,rust,python)](https://skillicons.dev)
 
-
-#### Runtimes
-[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,workers)](https://skillicons.dev)
-
-
-#### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,nestjs,express,graphql)](https://skillicons.dev)
-
-
-#### Clouds
-[![My Skills](https://skillicons.dev/icons?i=gcp,aws,azure,cloudflare)](https://skillicons.dev)
-
-
-#### DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)](https://skillicons.dev)
+> Learning by doing
