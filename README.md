@@ -1,7 +1,7 @@
 
 
 
-Hi, my name is Jun Guo.
+Hi, my name is Jun Guo. (June Kwok)
 
 I write something matters to gamers at Mistplay.
 
